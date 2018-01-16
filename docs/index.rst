@@ -5,6 +5,6 @@ Welcome to elixia's documentation!
    :maxdepth: 2
 
     introduction
-    Elixia::Entities
-    Elixia::Components
-    Elixia::Systems
+    entities
+    components
+    systems
