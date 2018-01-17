@@ -11,6 +11,11 @@ Purpose
 
 In this part, we'll talk about the main purpose of each system. What they have to managed, on which component they work and with which events they react.
 
+Implementation
+**************
+
+via C++ code snippets, we'll see `basically` how the System is.
+
 Events
 ******
 
