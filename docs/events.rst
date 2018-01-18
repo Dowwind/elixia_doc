@@ -23,7 +23,7 @@ List
 |  MoneyTransaction  | When a money transaction has to be done      | TODO |
 +--------------------+----------------------------------------------+------+
 
-.. doctree::
+.. toctree::
    :maxdepth: 1
 
    Events/Event
