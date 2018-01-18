@@ -26,8 +26,13 @@ Data explanation
 ----------------
 
 ``_inBoard`` -> This boolean tell if the inventory is a global one or if it represents the inventory of a ship.
+
 ``_lasers`` -> List of all lasers.
+
 ``_shield`` -> List of all shields.
-``_protocols`` -> List of all protocols
+
+``_protocols`` -> List of all protocols.
+
 ``_ships`` -> List of all ships.
+
 ``_designs`` -> List of all designs.

@@ -22,4 +22,5 @@ Data explanation
 ----------------
 
 ``_damage`` -> how much damage the projectile will deal.
+
 ``_from`` -> the entity that have launched the projectile.

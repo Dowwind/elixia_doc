@@ -27,5 +27,7 @@ Data explanation
 ----------------
 
 ``_xp`` -> the amount of experience.
+
 ``_rank`` -> the actual rank.
+
 ``_multiplier`` -> the multiplier that have to be used when changing experience.

@@ -23,5 +23,7 @@ Data explanation
 ----------------
 
 ``_money`` -> is the amount of money.
+
 ``_addMultiplier`` -> is the multiplier that have to be used when adding money.
+
 ``_removeMultiplier`` -> is the multiplier that have to used when removing money.

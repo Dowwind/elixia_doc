@@ -23,6 +23,8 @@ Data explanation
 ----------------
 
 ``_baseDamage`` -> Minimum damage that can be deal.
-``_attackSpeed`` -> Fire rate (Shot / Second)
+
+``_attackSpeed`` -> Fire rate (Shot / Second).
+
 ``_shotSpeed`` -> Speed of the projectile fired.
 
