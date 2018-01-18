@@ -14,7 +14,7 @@ The purpose of the event is to tell the **Money** system that a transaction need
 Code
 ****
 
-.. code-block::cpp
+.. code-block:: cpp
 
     struct MoneyTransaction
     {
@@ -35,7 +35,7 @@ Raise by the Shoot_ system to ask if an Entity can shoot.
 Code
 ****
 
-.. code-block::cpp
+.. code-block:: cpp
 
     struct ShootRequest
     {
@@ -111,7 +111,7 @@ Trivial.
 Code
 ****
 
-.. code-block::cpp
+.. code-block:: cpp
 
     struct SuccessfulPurchase
     {
@@ -130,7 +130,7 @@ Trivial.
 Code
 ****
 
-.. code-block::cpp
+.. code-block:: cpp
 
     struct BadPurchase
     {
