@@ -22,6 +22,6 @@ Code
 Data explanation
 ----------------
 
-`_username` -> represent the username that will be display in the game. Also, other players can search a player with his username.
-`_email` -> trivially, represent the email.
+``_username`` -> represent the username that will be display in the game. Also, other players can search a player with his username.
+``_email`` -> trivially, represent the email.
 
