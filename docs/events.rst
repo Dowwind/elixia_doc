@@ -22,6 +22,24 @@ List
 +--------------------+----------------------------------------------+------+
 |  MoneyTransaction  | When a money transaction has to be done      | TODO |
 +--------------------+----------------------------------------------+------+
+|  ShootRequest      | When someone want to shoot                   | TODO |
++--------------------+----------------------------------------------+------+
+| IncreaseExperience | When we want to add experience               | TODO |
++--------------------+----------------------------------------------+------+
+|  RankChanged       | To notify when the rank of someone change    | TODO |
++--------------------+----------------------------------------------+------+
+|  PurchaseRequest   | When someone want to purchase something      | TODO |
++--------------------+----------------------------------------------+------+
+| SuccessfulPurchase | When a purchase has been successful          | TODO |
++--------------------+----------------------------------------------+------+
+|  BadPurchase       | When purchase is not possible                | TODO |
++--------------------+----------------------------------------------+------+
+|  ChangeLaserWeapon | When we want to change the laser munition    | TODO |
++--------------------+----------------------------------------------+------+
+| ChangeRocketWeapon | When we want to change the rocket munition   | TODO |
++--------------------+----------------------------------------------+------+
+|  ChangeMineWeapon  | When we want to change the mine munition     | TODO |
++--------------------+----------------------------------------------+------+
 
 .. toctree::
    :maxdepth: 1
