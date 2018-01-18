@@ -26,4 +26,4 @@ List
 .. doctree::
    :maxdepth: 1
 
-   Events/MoneyTransaction
+   Events/Event
