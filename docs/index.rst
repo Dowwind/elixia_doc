@@ -6,5 +6,6 @@ Welcome to elixia's documentation!
 
    introduction
    entities
+   events
    components
    systems

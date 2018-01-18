@@ -64,7 +64,7 @@ So, here's a list of all **Systems** currently on the project.
 +-----------------+----------------------------------------------+------+
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    Systems/Money
    Systems/GameManager
